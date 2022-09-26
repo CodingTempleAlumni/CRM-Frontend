@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with the CRM Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Start working on the project
+- Fork and the repository to your own Github Account
+- Copy the Github URL, and run `git clone <repo-URL>` in your CMD/Terminal
+- Follow the Scripts below to run the project locally
 
 ## Available Scripts
 
